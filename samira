@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>MY SPACE</h1>
+  
+  <p>
+    Oi eu sou a samira, mas as pessoas me chamam de sassa ou de sami, tenho 17 anos e nasci no dia 26 de março de 2008, sou de botucatu, interior de são paulo. Eu amo minha família!! tenho 2 cachorros, um chamado Toddynho e uma chamada Shakira.
+  </p>
+
+  <section class="topic">
+    <h2>🎬 FILMES</h2>
+    <p>
+      Eu amo assistir filmes! Meu filme favorito é <strong>O Espetacular Homem Aranha</strong>. Adoro a história do Peter Parker e como ele lida com os poderes e responsabilidades de ser um super-herói. A cinematografia e os efeitos especiais são incríveis!
+    </p>
+  </section>
+
+  <section class="topic">
+    <h2>📺 SÉRIES</h2>
+    <p>
+      Minhas séries favoritas são <strong>Caçadores de Trolls</strong> e <strong>Steven Universo</strong>. Caçadores de Trolls tem uma aventura épica com personagens incríveis, e Steven Universo me emociona com suas mensagens sobre amor, amizade e aceitação. Ambas têm animações lindas!
+    </p>
+  </section>
+
+  <section class="topic">
+    <h2>🎵 MÚSICAS</h2>
+    <p>
+      Sou completamente viciada no <strong>ENHYPEN</strong>! Todas as músicas deles são perfeitas, mas tenho um carinho especial por <strong>Flashover</strong> e <strong>Teeth</strong>. O ritmo, as vozes e as performances são simplesmente incríveis. ❤️
+    </p>
+  </section>
+  <script src="script.js"></script>
+</body>
+
+</html>
